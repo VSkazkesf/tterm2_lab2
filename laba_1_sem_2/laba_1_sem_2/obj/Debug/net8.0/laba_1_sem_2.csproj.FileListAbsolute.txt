@@ -1,0 +1,57 @@
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.exe
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.deps.json
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.runtimeconfig.json
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.dll
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.pdb
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.AssemblyInfoInputs.cache
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.AssemblyInfo.cs
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.csproj.CoreCompileInputs.cache
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.dll
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\refint\laba_1_sem_2.dll
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.pdb
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.genruntimeconfig.cache
+C:\Users\egora\RiderProjects\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\ref\laba_1_sem_2.dll
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.exe
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.deps.json
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.runtimeconfig.json
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.dll
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.pdb
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.AssemblyInfoInputs.cache
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.AssemblyInfo.cs
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.csproj.CoreCompileInputs.cache
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.sourcelink.json
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.dll
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\refint\laba_1_sem_2.dll
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.pdb
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.genruntimeconfig.cache
+C:\Users\egora\Documents\GitHub\proga_uni\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\ref\laba_1_sem_2.dll
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.exe
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.deps.json
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.runtimeconfig.json
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.dll
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.pdb
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.GeneratedMSBuildEditorConfig.editorconfig
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.AssemblyInfoInputs.cache
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.AssemblyInfo.cs
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.csproj.CoreCompileInputs.cache
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.dll
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\refint\laba_1_sem_2.dll
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.pdb
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.genruntimeconfig.cache
+Y:\2024-2025 уч. год\Б24-171-1\ИТИП\Антропов Г. С\Лабораторные работы\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\ref\laba_1_sem_2.dll
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.exe
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.deps.json
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.runtimeconfig.json
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.dll
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\bin\Debug\net8.0\laba_1_sem_2.pdb
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.AssemblyInfoInputs.cache
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.AssemblyInfo.cs
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.csproj.CoreCompileInputs.cache
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.dll
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\refint\laba_1_sem_2.dll
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.pdb
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\laba_1_sem_2.genruntimeconfig.cache
+C:\Users\egora\source\repos\laba_1_sem_2\laba_1_sem_2\obj\Debug\net8.0\ref\laba_1_sem_2.dll
