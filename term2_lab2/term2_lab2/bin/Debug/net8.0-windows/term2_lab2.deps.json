@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "term2_lab2/1.0.0": {
+        "dependencies": {
+          "laba_1_sem_2": "1.0.0"
+        },
+        "runtime": {
+          "term2_lab2.dll": {}
+        }
+      },
+      "laba_1_sem_2/1.0.0": {
+        "runtime": {
+          "laba_1_sem_2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "term2_lab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "laba_1_sem_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
